@@ -1,2 +1,6 @@
 # MADERASORTEGA
-# Miguel ortega
+## Miguel ortega
+### tabla empleado
+### base de datos en phpmyadmin
+
+
